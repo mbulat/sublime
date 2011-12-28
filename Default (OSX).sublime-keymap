@@ -1,0 +1,16 @@
+[
+{ "keys": ["j", "j"], "command": "exit_insert_mode",
+  "context":
+  [
+    { "key": "setting.command_mode", "operand": false },
+    { "key": "setting.is_widget", "operand": false }
+  ]
+},
+{ "keys": ["k", "k"], "command": "run_macro_file", "args": {"file": "Packages/User/kk.sublime-macro"},
+  "context":
+  [
+    { "key": "setting.command_mode", "operand": false },
+    { "key": "setting.is_widget", "operand": false }
+  ]
+}
+]
