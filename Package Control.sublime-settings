@@ -1,9 +1,8 @@
 {
-	"auto_upgrade_last_run": 1325082966,
+	"auto_upgrade_last_run": 1325602657,
 	"installed_packages":
 	[
 		"Package Control",
-		"SublimeBlockCursor",
-		"Theme - Soda"
+		"SublimeBlockCursor"
 	]
 }

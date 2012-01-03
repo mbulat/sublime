@@ -1,7 +1,9 @@
 {
-	"ignored_packages":[],
+  "theme": "Default.sublime-theme",
   "highlight_modified_tabs": true,
-  "use_simple_full_screen": true,
-  "theme": "Soda Dark.sublime-theme",
-  "scroll_speed": 10.0
+	"ignored_packages":
+	[
+	],
+	"scroll_speed": 10.0,
+	"use_simple_full_screen": true
 }
